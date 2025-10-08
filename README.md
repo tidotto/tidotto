@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Tiago Dotto  
+# 👋 Olá, eu sou o Tiago Dotto Fernandes
 
 💻 Profissional com mais de **20 anos de experiência em TI**, especializado em:  
 - **Análise de Dados**  
