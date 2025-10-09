@@ -32,7 +32,10 @@ Agora estou organizando e **subindo retroativamente** meus projetos aqui no GitH
 ## 📌 Projetos em destaque
 
 - [**Hospital BI Dashboard (SQL)**](https://github.com/tidotto/hospital-bi-dashboard-sql)  
-  Mini datamart hospitalar em PostgreSQL, com KPIs de ocupação, LOS e reinternações.  
+  Mini datamart hospitalar em PostgreSQL, com KPIs de ocupação, LOS e reinternações.
+
+- [**Biblioteca Digital API (.NET 8 + SQL Server + Docker)**](https://github.com/tidotto/biblioteca-digital-api)  
+  Web API pronta para rodar com Docker Compose: EF Core com migração e seed automáticos, endpoints de livros/usuários/emprestimos e relatórios (CSV).
 
 *(Novos repositórios estão sendo adicionados aos poucos — todos com README explicativo e código organizado.)*  
 
